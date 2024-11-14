@@ -2,7 +2,7 @@
 
 https://github.com/AlfiZain/TA
 
-This Decision Support System (DSS) utilizes the **Weighted Product** method to assist educational institutions in identifying the top students based on multiple criteria. It provides insightful data for academic decision-making, including detailed reporting features for generating comprehensive reports. This is my final project at university.
+A decision support system utilizing the Weighted Product method to help educational institutions identify top students through multi-criteria analysis, providing insightful data to aid academic decision-making and with a reporting feature for generated detailed reports. This is my final project in my university.
 
 ## Key Features
 
